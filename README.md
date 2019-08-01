@@ -5,7 +5,7 @@
   </head>
   <body>
     <div class="page-header">
-      <a class="btn" href="https://bekirkhan.github.io/keksby_shop/">Посмотреть страницу / To see the page</a>
+      <p><a class="btn" href="https://bekirkhan.github.io/keksby_shop/">Посмотреть страницу / To see the page</a></p>
     </div>
     <div class="russian">
       <p>[RU] Веб-страница по учебному макету <b>'The Great Keksby'</b> из интерактивного онлайн курса от <a href="https://htmlacademy.ru/" target="_blank">HTML Academy</a>.</p>
