@@ -5,8 +5,12 @@
   </head>
   <body>
     <div class="page-header">
-      <img src="https://github.com/bekirkhan/angar13/blob/master/img/keksby_shop.png" alt="Preview - The Great Keksby">
-      <a class="btn" href="https://bekirkhan.github.io/keksby_shop/" title="The Great Keksby" width="600">Открыть страницу / Open the page</a>
+      <div class="preview">
+        <img src="https://github.com/bekirkhan/angar13/blob/master/img/keksby_shop.png" alt="Preview - The Great Keksby" width="500">
+      </div>
+      <div class="page-btn">
+        <a class="btn" href="https://bekirkhan.github.io/keksby_shop/" title="The Great Keksby">Открыть страницу / Open the page</a>
+      </div>
     </div>
     <hr>
     <div class="russian">
