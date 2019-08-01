@@ -6,7 +6,7 @@
   <body>
     <div class="page-header">
       <div class="preview">
-        <img src="https://github.com/bekirkhan/angar13/blob/master/img/keksby_shop.png" alt="Preview - The Great Keksby" width="500">
+        <img src="https://github.com/bekirkhan/angar13/blob/master/img/keksby_shop.png" alt="Preview - The Great Keksby" width="800">
       </div>
       <div class="page-btn">
         <a class="btn" href="https://bekirkhan.github.io/keksby_shop/" title="The Great Keksby">Открыть страницу / Open the page</a>
