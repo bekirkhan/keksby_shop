@@ -5,7 +5,8 @@
   </head>
   <body>
     <div class="page-header">
-      <div>
+      <div class="web-page">
+        <img src="https://raw.githubusercontent.com/bekirkhan/angar13/master/img/keksby_shop.png?token=AMWMP5CKOFMSL6HL5IJG6L25IMFYO" alt="Preview - The Great Keksby">
         <a class="btn" href="https://bekirkhan.github.io/keksby_shop/" title="The Great Keksby" >Посмотреть страницу / To see the page</a>
       </div>      
     </div>
