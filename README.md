@@ -12,6 +12,9 @@
     <div class="english">
       <p>[EN] Web-page on the learning website template <b>'The Great Keksby'</b> from an interactive online study course by <a href="https://htmlacademy.ru/" target="_blank">HTML Academy</a>.</p>
       <p>&copy; The tamplate belongs to the Academy.</p>
-    </div>	  
+    </div>
+    <div>
+      <p>Посмотреть веб-страницу / To see the web-page</p>
+    </div>
   </body>	
 </html>
